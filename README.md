@@ -1,1 +1,3 @@
-# CEFR_Extension_prot_5
+(Working Prot.) Text Level Rewriter Chrome Extension A Chrome extension that rewrites website text to match CEFR English difficulty levels (A1-C2).
+
+Features 🎚️ Smooth CEFR level selector (A1 to C2) 🤖 OpenAI-powered text rewriting 🎨 Beautiful gradient UI with animations 💾 Persistent settings storage 🔄 Smooth transitions and reset functionality Installation From Source Clone this repository Open Chrome and go to chrome://extensions/ Enable "Developer mode" (top right toggle) Click "Load unpacked" and select the extension folder The extension will appear in your toolbar Setup Click the extension icon Enter your OpenAI API key Select desired CEFR level using the slider Click "Rewrite Page" to transform content# CEFR_Extension_prot_3
